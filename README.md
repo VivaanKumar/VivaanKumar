@@ -4,5 +4,5 @@
   <img src="https://www.ictdemy.com/images/5728/nodejs_logo.png" width="50px" height="50px"/>
 </div>
 
-<h2 align="center">Vivaan Kumar's profile</h2>
+<p align="center" style="font-size: 100px">Vivaan Kumar's profile</p>
 
