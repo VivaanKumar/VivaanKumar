@@ -10,6 +10,7 @@
 <p align="center" style="font-size: 100px">Vivaan Kumar's profile</p>
 
 <h1 align="center" style="font-size: 100px">Top projects:</h1>
-<h2 align="center" href="https://disarray-social-media.netlify.app/" style="font-size: 100px">Vivaan Social Media!! - https://disarray-social-media.netlify.app/</h2>
-<h2 align="center" href="https://disarray-social-media.netlify.app/" style="font-size: 100px">Chess Multiplayer!! - https://chess-multiplayer.netlify.app/</h2>
+<h2 align="center" style="font-size: 100px">Vivaan Social Media! - https://disarray-social-media.netlify.app/</h2>
+<h2 align="center"  style="font-size: 100px">Chess Multiplayer! - https://chess-multiplayer.netlify.app/</h2>
+<h2 align="center" style="font-size: 100px">Nutritionalist (Hackathon Winner $1000)! - https://the-nutritionalist.netlify.app</h2>
 
