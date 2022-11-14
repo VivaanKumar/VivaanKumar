@@ -1,16 +1,7 @@
-<div id="header" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px" height="50px"/>
-  <img src="https://nextsoftware.io/files/images/logos/main/reactjs-logo.png" width="50px" height="50px"/>
-  <img src="https://www.ictdemy.com/images/5728/nodejs_logo.png" width="50px" height="50px"/>
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="50px" height="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50px" height="50px"/>
- 
-</div>
+<h2 align="center" style="font-size: 100px">Vivaan Social Media - https://disarray-social-media.netlify.app/</h2>
+<h2 align="center"  style="font-size: 100px">Chess Multiplayer - https://chess-multiplayer.netlify.app/</h2>
+<h2 align="center" style="font-size: 100px">$1k winner hackathon - https://the-nutritionalist.netlify.app</h2>
+<h2 align="center" style="font-size: 100px">Twitter Remake - https://twitter-vivaan.vercel.app/</h2>
+<h2 align="center" style="font-size: 100px">Whatsapp but better, in development - https://www.v-rooms.tk</h2>
 
-<p align="center" style="font-size: 100px">Vivaan Kumar's profile</p>
-
-<h1 align="center" style="font-size: 100px">Top projects:</h1>
-<h2 align="center" style="font-size: 100px">Vivaan Social Media! - https://disarray-social-media.netlify.app/</h2>
-<h2 align="center"  style="font-size: 100px">Chess Multiplayer! - https://chess-multiplayer.netlify.app/</h2>
-<h2 align="center" style="font-size: 100px">Nutritionalist (Hackathon Winner $1000)! - https://the-nutritionalist.netlify.app</h2>
 
