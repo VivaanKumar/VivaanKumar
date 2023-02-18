@@ -1,1 +1,1 @@
-Vendition Team
+The Vendition Team
